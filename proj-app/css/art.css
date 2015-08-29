@@ -1,0 +1,18 @@
+.even {
+	background-color: gainsboro;
+}
+.odd {
+	background-color: white;
+}
+.border {
+	border: 0.1em solid midnightblue;
+}
+.blue {
+	color: mediumblue;
+}
+body {
+	background-color: black;
+}
+h2 {
+	color : whitesmoke;
+}

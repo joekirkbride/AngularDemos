@@ -1,0 +1,24 @@
+<html ng-app='projmod'>
+	<head>
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/art.css">
+		<title>MVC project</title>
+	</head>
+	<body ng-controller='projctrl'>
+		<div class='container'>
+			<h2>MVC project</h2>
+		</div>
+		<div id='main' class='container'>
+			<div class='row border' ng-repeat='proj in projdata' ng-class="$even ? 'row border even' : 'row border odd'">
+				<div>
+					<div class='col-sm-1'>{{proj.name}}</div>
+					<div class='col-sm-3 blue'>{{proj.title}}</div>
+					<div class='col-sm-8'>{{proj.description}}</div>
+				</div>
+			</div>
+		</div>
+		<script src="js/angular.min.js" type="text/javascript"></script>
+		<script src="js/projapp.js" type='text/javascript'></script>
+	</body>
+</html>

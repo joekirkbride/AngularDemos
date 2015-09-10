@@ -1,57 +1,44 @@
 [
 	{
 		"name" : "Adam",
-		"title" : "Insurance Management App",
-		"description" : "It is an ASP.NET MVC based system that is designed to improve efficiency and the overall user experience for employees in the world of home owners insurance. It enables quick access to customers and their policies, bills, and claims as well as other important informatin about the customer in the office or by mobile device. The system also provides daily reminders of past due bills for employee attention."
-	},
-	{
-		"name" : "Cameron",
-		"title" : "Issue Tracking System and Submission",
-		"description" : "An MVC portal built to help the internal technical teams of the company to log technical issues in their work and get a senior employee/community support to help resolve the issue in a timely fashion.  The employee having any Technical for IT related queries would open a ticket in the portal and assigning it to a specific group. "
+		"title" : "Part entry system and tracker",
+		"description" : "an MVC app",
+		"technology" : "Google map API and KnockoutJS"
 	},
 	{
 		"name" : "Kamrul",
-		"title" : "Fleet Logistics, Tracking , and Maintenance",
-		"description" : "A web based ASP.NET MVC portal for contract vehicles and fleet management that make available the tools for managing the county vehicles, equipment, and assets.  The Fleet Management Portal has the resources to track schedules for performing preventative maintenance and repairs for all tracked items.  Also, the Portal tracks fuel distribution and inventory control.  Tracking is controlled by a manager who oversees the schedules that are needed and arranges them.  User interfaces are also implemented for use by clients that need to make use of the resources of the vehicles, tools, and assets."
+		"title" : "New hire tracking and training system",
+		"description" : "A web based ASP.NET MVC portal",
+		"technology" : "signalR"
 	},
 	{
 		"name" : "Kevin",
-		"title" : "Rapid Response and Emergency Reporting",
-		"description" : "An MVC application that is created as a central system for emergency services. It will gather all emergency related incidents, generate reports, and provide suggestions for preparing for future events."
+		"title" : "Inventory and Material Management App",
+		"description" : "This project involved developing an Inventory System for tracking a company's inventory. The data containing stock information was processed by the system on a real time basis. The Inventory Manager could view the inventory and perform various operations.  Also, the application will notifiy for low inventory that needs to be restocked.",
+		"technology" : "D3.js"
 	},
 	{
 		"name" : "Lucas",
-		"title" : "Shipping Compliance System",
-		"description" : "Compliance Management System is an ASP.NET MVC based application built for an industrial packaging materials manufacturer. The application is designed to monitor and allow management of compliance with UN regulations of packaged shipping containers. It continuously alerts users of batches that fail to comply and provide access to details of batches and individual containers. CMS also provides history reports and risk management."
+		"title" : "Project Proposal, Reporting, and Materials Tracker",
+		"description" : "An ASP.NET MVC portal for a company to manage and handle new projects requests, current project statuses and material stocks and procurement. The portal used Charts, Search Functionality, and other features using Ajax, JQuery and Web Services extensively.",
+		"technology" : "Telerik and/or KendoUI"
 	},
 	{
 		"name" : "Matt",
-		"title" : "Sales Forecast Modeling App",
-		"description" : "The Forecast Modeling System is an internet based application for a sales oriented retail company to track the sales accomplishments of their employees while forecasting sales goals based on current sales, past sales, inventory, etc.  The forecasting system uses triggers and stored procedures in the database to update the goal and statistics information.  It also, generates graphs and various reports."
+		"title" : "Library Catalog App",
+		"description" : "an ASP.NET MVC app that",
+		"technology" : "IgniteUI"
 	},
 	{
 		"name" : "Peter",
-		"title" : "Manufacturing Process Tracker",
-		"description" : "Designed an MVC application for the management of commercial construction. Manufacturing managers can use an web client to publish reports of progress for each stage endpoint. The app stores this data and uses it to make increasingly accurate predictions for completion date and manpower cost, exposing this though a web portal using charting library. Upper management can then use this data to make high level decisions for manufacturing."
-	},
-	{
-		"name" : "Pratik",
-		"title" : "Project Proposal and Reporting App",
-		"description" : "An ASP.NET MVC portal for a company to manage and handle new projects requests, current project statuses and material stocks and procurement. The portal used Charts, Search Functionality, and other features using Ajax, JQuery and Web Services extensively."
+		"title" : "Expense and Reimbursement Management",
+		"description" : "This is an ASP.NET MVC web application used to enter, track, and moderate any expenses a company may have. Employees create expenses, or tickets, by entering an amount and a description. Managers are responsible for closing tickets, adding employees to the database using a simple form, and managing employee job information. The application makes expense tracking faster, more efficient, and easier for both management and employees.",
+		"technology" : "jQueryUI"
 	},
 	{
 		"name" : "Richard",
-		"title" : "Research and Development Management",
-		"description" : "An application analysis tool develop to track the research and development of new products. The application generates data reports for managers to estimate time to market, cost of manufacturing, and process optimization. Employees are able to add and update research results. The system can also be used to generate guidelines for the product manufacturing process."
-	},
-	{
-		"name" : "Ricky",
-		"title" : "Expense and Reimbursement Management",
-		"description" : "This is an ASP.NET MVC web application used to enter, track, and moderate any expenses a company may have. Employees create expenses, or tickets, by entering an amount and a description. Managers are responsible for closing tickets, adding employees to the database using a simple form, and managing employee job information. The application makes expense tracking faster, more efficient, and easier for both management and employees."
-	},
-	{
-		"name" : "Taylor",
-		"title" : "Inventory and Material Management App",
-		"description" : "This project involved developing an Inventory System for tracking a company's inventory. The data containing stock information was processed by the system on a real time basis. The Inventory Manager could view the inventory and perform various operations.  Also, the application will notifiy for low inventory that needs to be restocked."
+		"title" : "Issue Tracking System and Submission",
+		"description" : "An MVC portal built to help the internal technical teams of the company to log technical issues in their work and get a senior employee/community support to help resolve the issue in a timely fashion.  The employee having any Technical for IT related queries would open a ticket in the portal and assigning it to a specific group.",
+		"technology" : "Chart.js"
 	}
 ]

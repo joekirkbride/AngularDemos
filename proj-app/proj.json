@@ -33,7 +33,7 @@
 		"name" : "Peter",
 		"title" : "Expense and Reimbursement Management",
 		"description" : "This is an ASP.NET MVC web application used to enter, track, and moderate any expenses a company may have. Employees create expenses, or tickets, by entering an amount and a description. Managers are responsible for closing tickets, adding employees to the database using a simple form, and managing employee job information. The application makes expense tracking faster, more efficient, and easier for both management and employees.",
-		"technology" : "jQueryUI"
+		"technology" : "jQueryUI and PDF generator"
 	},
 	{
 		"name" : "Richard",

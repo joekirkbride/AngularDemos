@@ -2,13 +2,13 @@
 	{
 		"name" : "Adam",
 		"title" : "Part entry system and tracker",
-		"description" : "an MVC app",
+		"description" : "an MVC designed to enable company 'Scouts' to electronically capture and transmit relevant car data using WCF at ongoing salvage auctions to the company's Data Governance Group. MVC Application includes the ability for the Data Governance Group to receive and review data submitted by scouts throughout the day. This application strives to enable a 'Scout' to capture relevant car information on up to 10 key parts in less than 5 minutes. It provides relevant interchange and inventory data, enabling the scouts to focus their efforts on cars best suited to Companies procurement needs.",
 		"technology" : "Google map API and KnockoutJS"
 	},
 	{
 		"name" : "Kamrul",
 		"title" : "New hire tracking and training system",
-		"description" : "A web based ASP.NET MVC portal",
+		"description" : "A web based ASP.NET MVC portal used to manage employee training on policy changes, compliance updates, and business changes. This application should monitor progress of an employee, include a dashboard that shows level of understanding and status. The Portal should also send notices to employees from management and that any performance evaluations will be reviewed by management. Also, assist in the scheduling and tracking the process of hiring of new employees.",
 		"technology" : "signalR"
 	},
 	{
@@ -26,7 +26,7 @@
 	{
 		"name" : "Matt",
 		"title" : "Library Catalog App",
-		"description" : "an ASP.NET MVC app that",
+		"description" : "an ASP.NET MVC app that manages books and other resources.  The portal allows authorized user to manage the distribution and ordering of books as needed. Users can also reserve and request a books and other resources.  Notifications should be provided when resources are available, request is approved, etc.",
 		"technology" : "IgniteUI"
 	},
 	{

@@ -1,38 +1,38 @@
 [
 	{
 		"name" : "Tony",
-		"title" : "project title",
-		"description" : "A web based ASP.NET MVC portal used...",
-		"technology" : "..."
+		"title" : "Accreditation Portal",
+		"description" : "A responsive web portal built to update and improve the application process for companies accreditation system. Implementation included: workflow based process management system that provided reminders and alerts, system to improve turnaround time for contract signing and renewals, departmental specific management system, and correction toolsets for re-accreditation management.",
+		"technology" : "D3.js"
 	},
 	{
 		"name" : "Kalu",
-		"title" : "project title",
-		"description" : "A web based ASP.NET MVC portal used...",
-		"technology" : "..."
+		"title" : "Project and Document Portal",
+		"description" : "Built and integrated a Project Management tool that enabled Project Managers to add, modify, and search for projects, tasks, and resources. Project Managers had the capability of modifying the details of a project such as where people were assigned and what they had to work on. Employees had a more limited role and therefore limited access so could only search for and partially modify projects but did not have the clearance to add projects to the system.  The application allows employees to upload existing documents/create new documents using web-based content creation tools. These documents can be tagged with identifying information.",
+		"technology" : "a PDF generator like ITextSharp and Chart.js"
 	},
 	{
 		"name" : "James",
-		"title" : "project title",
-		"description" : "A web based ASP.NET MVC portal used...",
-		"technology" : "..."
+		"title" : "Educational Admin Portal",
+		"description" : "An administration MVC web portal that allows easy enrollment and management of students in school districts. The system functions mainly from the viewpoint of an administrator, but also has a staff friendly interface for easy enrollment. The application supports online data collection, reporting, and auditing. The application manages the enrollment of students, monitoring of student progress and warehouse for other student related information for corresponding school districts. Performance measures are defined by ability level and maintained for each student as they move through the program.",
+		"technology" : "IgniteUI"
 	},
 	{
 		"name" : "Charles",
-		"title" : "project title",
-		"description" : "A web based ASP.NET MVC portal used...",
-		"technology" : "..."
+		"title" : "Water Utility Management",
+		"description" : "The RMI provided a metrics report for utility company management. The metrics report encompassed a complete snapshot in real time by capturing data at various levels of the water distribution hierarchy. It is part of a larger project that included water conservation efforts in controlling increasing water costs. The ultimate solution is water submetering of utilities in a building to measure a unit’s usage and in turn the tenant is billed accordingly. Submetering enables residents to be directly responsible for their own energy and water consumption leading to a “greener” property. This project allows a utility company to manage water utility submeters, implement and administer a billing system, and govern customer accounts. This system also provides a centralized place for consumers to monitor their water usage, utilize different billing features, and view consumption history in various types of reports, including a dashboard with widgets. This dashboard will not only show information about usage and billing information, but also promote water conservation through water saving tips, a real time “green score”, and even a place to compare your usage to your neighbors. This system is not only efficient and intuitive to use, it provides a fun way to encourage customers to save water, resulting in direct financial savings for both customers and owners while preserving one of earth’s most important natural resources, water.",
+		"technology" : "jQueryUI and Chartist.js"
 	},
 	{
 		"name" : "Codi",
-		"title" : "project title",
-		"description" : "A web based ASP.NET MVC portal used...",
-		"technology" : "..."
+		"title" : "Self Storage Management",
+		"description" : "The system is a complete integrated solution for storage rental inventory control. It is engineered to make use of the Internet and provides a high degree of reliability and security. This application is intended to keep track of customer storage unit rentals, payments, late fees and store inventory as well as storage unit management. It maintains exhaustive transaction details as well as customer information and feedback.",
+		"technology" : "HighCharts.js"
 	},
 	{
 		"name" : "Ryan",
-		"title" : "project title",
-		"description" : "A web based ASP.NET MVC portal used...",
-		"technology" : "..."
+		"title" : "Subcontractor Management and Project Tracker",
+		"description" : "A web based MVC application used to log and store potential subcontractor information. This system would be able to track information about the various candidates and their primary skill sets for current or future client jobs. This system allows management to quickly and efficiently search and narrow down potential candidates who are currently on the market looking for work.  The system also includes information about current project and candidates that are currently working.",
+		"technology" : "Chart.js"
 	}
 ]

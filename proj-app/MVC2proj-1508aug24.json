@@ -1,0 +1,38 @@
+[
+	{
+		"name" : "Tony",
+		"title" : "Mentor, Mentee, Manager",
+		"description" : "Developed an ASP.NET MVC mentor ticketing system application made to emulate a help desk style support system for employees. Employees with “Mentee” role could submit tickets. “Mentors” could answer tickets from mentees assigned to them. “Managers” could view all tickets and monitor Mentor response time. Also, Mentors could upload multiple screenshots for each ticket they answered. Emails were automatically sent to mentors when their mentees submitted a ticket and mentees were automatically sent an email when mentors responded to their ticket.  ALso provide  chat system.",
+		"technology" : "SignalR and jQueryUI"
+	},
+	{
+		"name" : "Kalu",
+		"title" : "Ad Campaign Management and Sales Prediction",
+		"description" : "Implemented a web application built for a company to track their online and offline Ad campaigns. The portal generated various types of chart based and textual reports which supported drill-down features. This allowed the company to streamline future Ad budgeting and funding for the respective channels. Reports are generate to forecast sales.",
+		"technology" : "IgniteUI and Chart.js"
+	},
+	{
+		"name" : "James",
+		"title" : "R&D portal",
+		"description" : "An application analysis tool develop to track the research and development of new products. The application generates data reports for managers to estimate time to market, cost of manufacturing, and process optimization. Employees are able to add and update research results. The system can also be used to generate guidelines for the product manufacturing process.",
+		"technology" : "Highchart.js"
+	},
+	{
+		"name" : "Charles",
+		"title" : "Employee Training System",
+		"description" : "A web based ASP.NET MVC portal used to manage employee training on policy changes, compliance updates, and business changes. This application should monitor progress of an employee, include a dashboard that shows level of understanding and status. The Portal should also send notices to employees from management and that any performance evaluations will be reviewed by management. Also, monitor the onboarding process for new hires.",
+		"technology" : "IgniteUI and Highchart.js"
+	},
+	{
+		"name" : "Codi",
+		"title" : "Travel Expense Management",
+		"description" : "Travel Expense Management Portal is an application for managing corporate travel requests, flight/hotel/car rental reservations, travel expense reimbursements, corporate charge card requests and approvals. Consists of a web based self-service system for employees. This system is used by the following departments: - Sales and Marketing - for employees travelling for sales and marketing trips, networking events and conferences, client lunches and events; - HR - for recruitment trips, campus fairs, job fairs, recruitment networking events and conferences; - All other employees - conferences and networking events.  Admins approve expenses.  Employees can submit and edit their expenses.",
+		"technology" : "IgniteUI and Chartist.js"
+	},
+	{
+		"name" : "Ryan",
+		"title" : "Library Catalog System",
+		"description" : "Web-based ASP.NET portal application for management of books and other resources in client company/institution/entities library. The portal allows for the authorized user to manage the distribution and ordering of books as needed, with establishment of users and their authorizations for within the client library. The interface is also configured for providing notifications and emails to users depending on situation pertaining to library resources. The system also has functionality for users to issue out a resource, automate reminder email of return dates, and generate list of who has resources checked out.  The system also allowed some books to be borrowed and reserved",
+		"technology" : "jQueryUI"
+	}
+]

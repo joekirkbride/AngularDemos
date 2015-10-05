@@ -21,7 +21,7 @@
 		"name" : "Charles",
 		"title" : "Employee Training System",
 		"description" : "A web based ASP.NET MVC portal used to manage employee training on policy changes, compliance updates, and business changes. This application should monitor progress of an employee, include a dashboard that shows level of understanding and status. The Portal should also send notices to employees from management and that any performance evaluations will be reviewed by management. Also, monitor the onboarding process for new hires.",
-		"technology" : "IgniteUI and Highchart.js"
+		"technology" : "IgniteUI and SignalR"
 	},
 	{
 		"name" : "Codi",

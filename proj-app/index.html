@@ -23,7 +23,7 @@
 			<div class='row border' ng-repeat='associate in cvdata' ng-class="$even ? 'row border even' : 'row border odd'">
 				<div>
 					<div class='col-sm-1'>{{associate.name}}</div>
-					<div class='col-sm-5 blue'>
+					<div class='col-sm-3 blue'>
 						<div ng-repeat='website in associate.links'>
 							<a href='{{website.url}}'>{{website.site}}</a>
 						</div>

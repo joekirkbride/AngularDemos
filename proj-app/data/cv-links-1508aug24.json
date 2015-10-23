@@ -1,0 +1,44 @@
+[
+	{
+		"name":"Tony",
+		"links":[{"site":"Schaffhouser Electric","url":"http://www.schaffhouserelectric.com"},
+				{"site":"Dev Digital","url":"http://www.devdigital.com/"},
+				{"site":"Pilgrim Consulting","url":"https://pilgrimconsulting.com/"},
+				{"site":"Seraphim Analytics","url":"http://www.seraphimanalytics.com/"}]
+	},
+	{
+		"name":"Charles",
+		"links":[{"site":"Milsoft Solutions","url":"http://www.milsoft.com/"},
+				{"site":"NS Software Services","url":"http://www.nssoftwareservices.com/index.html"},
+				{"site":"Cyber 1 Systems","url":"http://www.cyber1systems.com/"},
+				{"site":"Bere' Jewelers","url":"http://www.berejewelers.com/"}]
+	},
+	{
+		"name":"Kalu",
+		"links":[{"site":"SBG Technology","url":"http://sbgts.com/"},
+				{"site":"comScore Inc","url":"http://www.comscore.com/"},
+				{"site":"Suntiva LLC","url":"http://www.suntiva.com/"},
+				{"site":"Carney Inc","url":"http://www.teamcarney.com/"}]
+	},
+	{
+		"name":"James",
+		"links":[{"site":"Grata","url":"http://www.grataonline.com/"},
+				{"site":"i-Tech Support","url":"http://www.i-techsupport.com/"},
+				{"site":"Southeast Marine","url":"http://southeastmarinesales.com/certified-service/"},
+				{"site":"XeoDev","url":"http://www.xeodev.com/services.html"}]
+	},
+	{
+		"name":"Codi",
+		"links":[{"site":"Assured Self Storage","url":"http://www.storeassured.com/"},
+				{"site":"ISHIR","url":"http://www.ishir.com/"},
+				{"site":"Buruda Inc","url":"http://buradainc.com/"},
+				{"site":"System Id Solutions","url":"https://www.systemid.com/"}]
+	},
+	{
+		"name":"Ryan",
+		"links":[{"site":"Profit Insites","url":"http://profitinsites.com/"},
+				{"site":"Carnegie Library of Pittsburgh","url":"http://www.clpgh.org/"},
+				{"site":"Summa Technologies","url":"http://www.summa-tech.com"},
+				{"site":"4C Technologies","url":"http://www.cccctech.com/"}]
+	}
+]
